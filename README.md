@@ -109,8 +109,10 @@ A major challenge was preventing horizontal overflow and maintaining visible foc
 
 
 ### Siabonga Phiri - 202302370
-[Insert 100-word reflection here: Contribution, one mistake, and how it was verified/fixed.]
 
+my primary contribution was developing the accessible course registration interface and implementing the frontend Fetch logic with module scripts and local storage persistence.  
+​One mistake I made during development was attempting to parse the server response body as JSON on a DELETE /api/registrations/:id request, which resulted in a syntax error because the expected 204 No Content response contains no body.  
+​I verified and fixed this issue by checking response.ok and ensuring response bodies are only parsed when content is present, confirming the fix using browser DevTools.
 ### Shammah Musukwa - 202305900
 [Insert 100-word reflection here: Contribution, one mistake, and how it was verified/fixed.]
 
