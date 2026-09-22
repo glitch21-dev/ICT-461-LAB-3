@@ -112,7 +112,7 @@ A major challenge was preventing horizontal overflow and maintaining visible foc
 [Insert 100-word reflection here: Contribution, one mistake, and how it was verified/fixed.]
 
 ### Shammah Musukwa - 202305900
-[Insert 100-word reflection here: Contribution, one mistake, and how it was verified/fixed.]
+I helped with the project by working with my group members and helping to check if the course registration system works correctly. I also helped in testing some of the API requests and checking the results. I also noticed when using wrong information when testing one of the requests, which caused it not to work as expected. I checked the request again and compared it with the API requirements. After correcting the information, I tested it again an
 
 ### Chilando Gift - 202304589
 [Insert 100-word reflection here: Contribution, one mistake, and how it was verified/fixed.]
